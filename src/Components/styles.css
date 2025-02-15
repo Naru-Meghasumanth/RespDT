@@ -1,0 +1,14 @@
+.container{
+    height: 100vh;
+}
+
+.bg-lights{
+    background-color: #f4f6f824;
+    border-radius: 20px;
+}
+.t-font{
+    color: hsla(0, 0%, 100%, 0.663) !important;
+}
+.fonts{
+    font-size: 25px;
+}
