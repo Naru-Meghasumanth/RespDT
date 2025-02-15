@@ -9,7 +9,7 @@ function App() {
     <div className='App bg-dark'>
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Home />}/>
+          <Route path='/RespDT' element={<Home />}/>
           <Route path='/DashBoard' element={<DashBoard />}/>
         </Routes>       
       </BrowserRouter>
